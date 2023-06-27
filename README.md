@@ -1,6 +1,6 @@
 # About Me
 
-Hello World! Welcome to my Github profile. My name is Jacob Anderson (he/him) and this account stores every project I will take on at [Case Western Reserve University](https://case.edu/). I am currently a rising junior and I plan to attend graduate school at Case following my 4-year undergraduate program. My academic interests include 
+Hello World! Welcome to my Github profile. My name is Jacob Anderson (he/him) and this account stores every project I will take on at [Case Western Reserve University](https://case.edu/). I am currently a rising junior and I plan to attend graduate school at Case following my 4-year undergraduate program. My academic interests include Artifical Intelligence, Cognitive Science, Machine Learning, Neural Networks, and Probability.
 
 <!--
 **jmanderson0119/jmanderson0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Repositories
+
+I am currently making frequent contributions to this game design project I cooked up last spring that I wanted to see come to life, [here](https://github.com/jmanderson0119/atlas-cosmic-courier).
