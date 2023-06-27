@@ -26,11 +26,9 @@ I am currently making frequent contributions to this game design project I cooke
 
 Email is my preferred method of communication (at **[jma195@case.edu](mailto:jma195@case.edu)**), however here are some others way to get in touch with me:
 
-**[LinkedIn](https://www.linkedin.com/in/jacob-anderson-swe/)**
+<a href="https://www.linkedin.com/in/jacob-anderson-swe/"><img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" style="pointer-events: none;" width="65" height="65"></a> <a href="https://cwru.joinhandshake.com/stu/users/33294140"><img src="https://play-lh.googleusercontent.com/vYE9EZNjWSWt42dWI8EEl98pouRX5dnqBBH21Yc9mZgk92sL3sN64Pib8Xw60_WX-Q=w240-h480-rw" style="pointer-events: none;" width="50" height="50">
 
-**Handshake:**
-
-<img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" style="pointer-events: none;" width="60" height="60"> <img src="https://play-lh.googleusercontent.com/vYE9EZNjWSWt42dWI8EEl98pouRX5dnqBBH21Yc9mZgk92sL3sN64Pib8Xw60_WX-Q=w240-h480-rw" style="pointer-events: none;" width="50" height="50">
+For non-professional inquiries, feel free to contact me using my **[personal email.](mailto:janderson011903@gmail.com)**
 
 
 
