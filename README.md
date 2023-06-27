@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ## Repositories
 
-I am currently making frequent contributions to this game design project I cooked up last spring that I wanted to see come to life, [here](https://github.com/jmanderson0119/atlas-cosmic-courier).
+I am currently making frequent contributions to this game design project I cooked up last spring that I wanted to see come to life, [here](https://github.com/jmanderson0119/atlas-cosmic-courier). However, I am always available to contact at [jma195@case.edu](mailto:jma195@case.edu) regarding new projects to contribute to! Here is what's currently available to take a look at on my account:
+
+- atlas-cosmic-courier: A space flight/combat videogame made with Unity(2021.3.18f1).
