@@ -26,11 +26,11 @@ I am currently making frequent contributions to this game design project I cooke
 
 Email is my preferred method of communication (at **[jma195@case.edu](mailto:jma195@case.edu)**), however here are some others way to get in touch with me:
 
-**LinkedIn:**
+**[LinkedIn](https://www.linkedin.com/in/jacob-anderson-swe/)**
 
 **Handshake:**
 
-<img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" style="pointer-events: none;" width="60" height="60"> <img src="https://play-lh.googleusercontent.com/vYE9EZNjWSWt42dWI8EEl98pouRX5dnqBBH21Yc9mZgk92sL3sN64Pib8Xw60_WX-Q=w240-h480-rw" width="50" height="50">
+<img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" style="pointer-events: none;" width="60" height="60"> <img src="https://play-lh.googleusercontent.com/vYE9EZNjWSWt42dWI8EEl98pouRX5dnqBBH21Yc9mZgk92sL3sN64Pib8Xw60_WX-Q=w240-h480-rw" style="pointer-events: none;" width="50" height="50">
 
 
 
