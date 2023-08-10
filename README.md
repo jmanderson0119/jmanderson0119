@@ -12,7 +12,7 @@ I am currently a rising junior and I plan to attend graduate school at Case foll
 - Discrete Mathematics
 - Linear Algebra
 
-This fall I am looking forward to studying Abstract Algebra, Differential Equations, Intro to Artifical Intelligence, and Software Engineering!
+This fall I am looking forward to studying Abstract Algebra, Differential Equations, Intro to Artifical Intelligence, and Software Engineering
 
 ## Repositories
 
