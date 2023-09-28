@@ -21,7 +21,7 @@ I am currently making frequent contributions to this website project I started e
 
 Email is my preferred method of communication (at **[jma195@case.edu](mailto:jma195@case.edu)**), however here are some others way to get in touch with me:
 
-<a href="https://www.linkedin.com/in/jacob-anderson-swe/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/jacob-anderson-swe/">LinkedIn</a> <br>
 <a href="https://cwru.joinhandshake.com/stu/users/33294140">Handshake</a>
 
 For non-professional inquiries, feel free to contact me using my **[personal email.](mailto:janderson011903@gmail.com)**
