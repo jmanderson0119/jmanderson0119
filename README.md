@@ -4,7 +4,7 @@ Welcome to my Github profile. My name is Jacob Anderson (he/him) and this accoun
 
 ## Background
 
-I am currently a junior undergraduate and I plan to attend graduate school at Case following my 4-year undergraduate program. My academic interests include Artifical Intelligence, Cognitive Science, Machine Learning, Neural Networks, and Probability. Some of my in-major coursework I have taken include: Data Structures, Algorithm Design, Operating Systems, Discrete Mathematics, Artificial Intelligence, and Software Engineering.
+I am currently a junior undergraduate and I plan to attend graduate school at Case following my 4-year undergraduate program. My academic interests include Artifical Intelligence, Cognitive Science, Machine Learning, Network Science, and Probability. Some of my in-major coursework I have taken include: Data Structures, Algorithm Design, Operating Systems, Discrete Mathematics, Artificial Intelligence, and Software Engineering.
 
 ## Repositories
 
