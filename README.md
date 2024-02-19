@@ -13,7 +13,7 @@ I am always available to contact at **[jma195@case.edu](mailto:jma195@case.edu)*
 - **[atlas-cosmic-courier:](https://github.com/jmanderson0119/atlas-cosmic-courier)** A space flight videogame made with Unity 2021.3.18f1!
 - **[game-design-group-project:](https://github.com/jmanderson0119/game-design-group-project)** This stores my final group project for CSDS 290, an introduction to game design course at CWRU.
 - **[csds391-textbook:](https://github.com/jmanderson0119/csds391-textbook)** Currently, this repository just stores some useful resources for studying AI, however I am going to slowly transform this repository into a bank of useful references for undergraduate CS students.
-- **[language-interpreter]([https://github.com/jmanderson0119/dnd-map-maker](https://github.com/jmanderson0119/language-interpreter))** An interpreter for a very simple Java/C-reminiscent syntax, containing basic semantic actions such as assignment, math operations, conditionals, etc.
+- **[language-interpreter:](https://github.com/jmanderson0119/language-interpreter)** An interpreter for a very simple Java/C-reminiscent syntax, containing basic semantic actions such as assignment, math operations, conditionals, etc.
 - **[sliding-tile-search-agent:](https://github.com/jmanderson0119/first-ai-project)** A simple ai project written in Julia to solve the 8-puzzle using Best-First and Local beam search approaches.
 
 
