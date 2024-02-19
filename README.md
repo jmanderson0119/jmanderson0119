@@ -8,7 +8,7 @@ I am currently a junior undergraduate and I plan to attend graduate school at Ca
 
 ## Repositories
 
-I am always available to contact at **[jma195@case.edu](mailto:jma195@case.edu)** regarding new projects to collaborate on! Here is what's currently available to take a look at on my account:
+I am always available to contact at **[jma195@case.edu](mailto:jma195@case.edu)** regarding new projects to collaborate on! Here is some of what's currently available to take a look at on my account:
 
 - **[atlas-cosmic-courier:](https://github.com/jmanderson0119/atlas-cosmic-courier)** A space flight videogame made with Unity 2021.3.18f1!
 - **[game-design-group-project:](https://github.com/jmanderson0119/game-design-group-project)** This stores my final group project for CSDS 290, an introduction to game design course at CWRU.
