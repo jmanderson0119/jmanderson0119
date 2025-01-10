@@ -1,27 +1,22 @@
 # About Me
 
-Welcome to my Github profile. My name is Jacob Anderson (he/him) and this account is a collection of projects I have completed at [Case Western Reserve University](https://case.edu/). 
+Welcome to my Github profile. My name is Jacob Anderson and this account is a collection of projects I have completed at [Case Western Reserve University](https://case.edu/). 
 
 ## Background
 
-I am currently a junior undergraduate and I plan to attend graduate school at Case following my 4-year undergraduate program. My academic interests include Artifical Intelligence, Cognitive Science, Machine Learning, Network Science, and Probability. Some of my in-major coursework I have taken include: Data Structures, Algorithm Design, Operating Systems, Discrete Mathematics, Artificial Intelligence, and Software Engineering.
+I am a current undergraduate under a combined program and I plan to pursue a doctorate following my five-year program. My research interests include attention methods in computer vision, noise robustness in learning algorithms, and algebraic/novel learning methodology. 
 
 ## Repositories
 
-I am always available to contact at **[jma195@case.edu](mailto:jma195@case.edu)** regarding new projects to collaborate on! Here is what's currently available to take a look at on my account:
+I am currently available to contact at **[jma195@case.edu](mailto:jma195@case.edu)** regarding new projects to collaborate on! Here some of what's available to look at on my account:
 
-- **[atlas-cosmic-courier:](https://github.com/jmanderson0119/atlas-cosmic-courier)** A space flight videogame made with Unity 2021.3.18f1!
-- **[game-design-group-project:](https://github.com/jmanderson0119/game-design-group-project)** This stores my final group project for CSDS 290, an introduction to game design course at CWRU.
-- **[csds391-textbook:](https://github.com/jmanderson0119/csds391-textbook)** Currently, this repository just stores some useful resources for studying AI, however I am going to slowly transform this repository into a bank of useful references for undergraduate CS students.
+- **[cv-research-project](https://github.com/jmanderson0119/cv-research-project)** A research project carried out with [Aniyah Shirehjini, CWRU](https://github.com/aniyahs); a pipeline to restore distorted vehicle imaging in bad weather conditions.
+- **[atlas-cosmic-courier:](https://github.com/jmanderson0119/atlas-cosmic-courier)** A little practice project in programming smooth flight mechanics in Unity; learned a lot about quaternions :)
+- **[cymko:](https://cwru-ecse390.itch.io/cymko-f2024-team-2)** An action-platformer made in collaboration with students from Case Western and the Cleveland Institute of Art, where I designed and led the implementation of the reactive agent infrastructure underlying each of the game bosses. 
 - **[language-interpreter:](https://github.com/jmanderson0119/language-interpreter)** An interpreter for a very simple Java/C-reminiscent syntax, containing basic semantic actions such as assignment, math operations, conditionals, etc.
-- **[sliding-tile-search-agent:](https://github.com/jmanderson0119/first-ai-project)** A simple ai project written in Julia to solve the 8-puzzle using Best-First and Local beam search approaches.
+- **[sliding-tile-search-agent:](https://github.com/jmanderson0119/first-ai-project)** This is my first hands-on experience in programming an intelligent agent, it's a simple bot written in Julia to solve the [8-puzzle](https://www.geeksforgeeks.org/8-puzzle-problem-using-branch-and-bound/) using Best-First and Local Beam search strategies.
 
 
 ## Contact
 
-Email is my preferred method of communication (at **[jma195@case.edu](mailto:jma195@case.edu)**), however here are some others way to get in touch with me:
-
-<a href="https://www.linkedin.com/in/jacob-anderson-swe/">LinkedIn</a> <br>
-<a href="https://cwru.joinhandshake.com/stu/users/33294140">Handshake</a>
-
-For non-professional inquiries, feel free to contact me using my **[personal email.](mailto:janderson011903@gmail.com)**
+Email is my preferred method of contact (at **[jma195@case.edu](mailto:jma195@case.edu)**), however my [LinkedIn](https://www.linkedin.com/in/jacob-anderson-ml/) is also a reliable way to make sure I see your correspondence.
