@@ -10,7 +10,7 @@ I am a current undergraduate under a combined program and I plan to pursue a doc
 
 I am currently available to contact at **[jma195@case.edu](mailto:jma195@case.edu)** regarding new projects to collaborate on! Here some of what's available to look at on my account:
 
-- **[cv-research-project](https://github.com/jmanderson0119/cv-research-project)** A research project carried out with [Aniyah Shirehjini, CWRU](https://github.com/aniyahs); a pipeline to restore distorted vehicle imaging in bad weather conditions.
+- **[autonomous-vehicle-image-restoration](https://github.com/jmanderson0119/autonomous-vehicle-image-restoration)** A research project carried out with [Aniyah Shirehjini, CWRU](https://github.com/aniyahs); a pipeline to restore distorted vehicle imaging in bad weather conditions.
 - **[atlas-cosmic-courier:](https://github.com/jmanderson0119/atlas-cosmic-courier)** A little practice project in programming smooth flight mechanics in Unity; learned a lot about quaternions :)
 - **[cymko:](https://cwru-ecse390.itch.io/cymko-f2024-team-2)** An action-platformer made in collaboration with students from Case Western and the Cleveland Institute of Art, where I designed and led the implementation of the reactive agent infrastructure underlying each of the game bosses. 
 - **[language-interpreter:](https://github.com/jmanderson0119/language-interpreter)** An interpreter for a very simple Java/C-reminiscent syntax, containing basic semantic actions such as assignment, math operations, conditionals, etc.
