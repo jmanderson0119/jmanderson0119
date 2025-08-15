@@ -4,7 +4,7 @@ Welcome to my Github profile. My name is Jacob Anderson and this account is a co
 
 ## Background
 
-I am a current undergraduate under a combined program and I plan to pursue a doctorate following my five-year program. My research interests include attention methods in computer vision, noise robustness in learning algorithms, and algebraic/novel learning methodology. 
+I am a current undergraduate under a combined program and I plan to pursue a doctorate at some point following my five-year program. My research interests include attention methods in computer vision, noise robustness in learning algorithms, and algebraic/novel learning methodology. 
 
 ## Repositories
 
